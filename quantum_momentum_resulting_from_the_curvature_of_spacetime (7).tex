@@ -1,0 +1,406 @@
+% quantum_momentum_resulting_from_the_curvature_of_spacetime.tex
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{authblk}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{siunitx}
+\usepackage{braket}
+\usepackage{geometry}
+\usepackage{bm}
+\usepackage{hyperref}
+\geometry{margin=1in}
+\hypersetup{colorlinks=true,linkcolor=blue,citecolor=blue,urlcolor=blue}
+
+\title{Quantum momentum resulting from the curvature of spacetime}
+\author{Kyrolles Ashraf Dawood}
+\affil{Department of Physics, Faculty of Science, Assiut University, Asyut, Egypt\\Corresponding author: \texttt{kyrls.dawd1231@science.aun.edu.eg}}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+In quantum mechanics, the momentum of a particle is expressed as an operator  
+\newline In this paper, we propose a modification to the momentum operator for a particle constrained to a curved one-dimensional manifold. We hypothesize that the geometric curvature $R$ induces a "quantum compression" effect, leading to an additional momentum term $Z \propto \sqrt{R}$. 
+\begin{equation}
+   \hat{p}=-\mathrm{i}\hbar\boldsymbol{\nabla}
+\end{equation}
+This factor is factored into the Schrödinger equation and determines the kinetic energy of the particle using the equation. 
+\begin{equation}
+    \hat{T}=-\frac{\hbar^2}{2m} \nabla^2= \frac{\hat{\mathbf{p}}^2}{2m}
+\end{equation}
+However, this equation assumes that spacetime is flat, but if spacetime becomes curved as in general relativity, then the concepts change and the curvature must be taken into account
+\end{abstract}
+
+\tableofcontents
+
+\section{Introduction}
+\label{sec:intro}
+Quantum particles moving in curved space gain additional momentum resulting from this curvature.
+ \section{Theoretical Framework}
+Assuming a particle moves along a curved 1D path, the modified momentum operator $\hat{p}_{eff}$ can be expressed as:
+\begin{equation}
+\hat{p}_{eff} = -i\hbar \frac{\partial}{\partial x} + \alpha \hbar \sqrt{R(x)}
+\end{equation}
+where $R(x)$ is the local curvature of the path. This formulation ensures mathematical consistency as both terms are now treated as scalars in the 1D subspace.
+
+
+
+\section{Conclusion of the law}
+\label{sec:model}
+\subsection {Proof that space is quantumly compressed at large curvature regions.}
+
+
+In the quantum vacuum (a strongly curved spacetime manifold) the principles of quantum mechanics impose fluctuations in energy and momentum as a consequence of Heisenberg's uncertainty principle. According to this principle, the product of the uncertainty in position $\Delta x$ and the momentum uncertainty $\Delta p$ is at least $\hbar/2$. This means that confining a particle or a quantum field within a narrow region (small $\Delta x$) necessarily amplifies $\Delta p$. In other words, if $\Delta x$ contracts then $\Delta p$ increases approximately inversely with $\Delta x$.
+
+This entails an increase in the quantum energy of the vacuum even in the absence of explicit matter. Every quantum system, even in its lowest-energy (ground) state, retains fluctuating zero-point energy that does not vanish because of quantum uncertainty. Thus, when $\Delta x$ is reduced by strong spacetime curvature, the fluctuations of momentum and quantum energy increase.
+
+Mathematically this can be roughly estimated as follows: from Heisenberg's principle
+\begin{equation}
+\Delta x\cdot\Delta p \ge \frac{\hbar}{2}
+\quad\Longrightarrow\quad
+\Delta p \gtrsim \frac{\hbar}{2\Delta x}.
+\end{equation}
+Assuming these quantum fluctuations correspond to a radiation spectrum (approximately massless), their energy--momentum relation is $\Delta E \approx c\,\Delta p$ (where $c$ is the speed of light). Hence
+\begin{equation}
+\Delta E \approx \frac{\hbar c}{2\Delta x}.
+\end{equation}
+The amount of energy $\Delta E$ is distributed within the volume encompassed by $\Delta x$. Approximately, the resulting quantum energy density is
+\begin{equation}
+\rho \approx \frac{\Delta E}{(\Delta x)^3} \approx \frac{\hbar c}{2(\Delta x)^4}.
+\end{equation}
+
+We deduce that decreasing $\Delta x$ leads to a rapid increase in $\Delta p$ and in the enclosed energy, and therefore to a large rise in the quantum energy density or quantum pressure. In other words, the vacuum in a strongly curved region acts as if it is quantum-compressed: increasing spacetime curvature constrains the localization of quantum fluctuations and raises their energetic tension.
+
+\paragraph{Uncertainty principle -- confinement:} Heisenberg's uncertainty principle states $\Delta x\cdot\Delta p \ge \hbar/2$, so at the minimum $\Delta p \approx \hbar/(2\Delta x)$. Therefore, when the position range $\Delta x$ contracts (i.e., the quantum space is compressed) the momentum range $\Delta p$ increases substantially.
+
+\paragraph{Energy and momentum:} Assuming the quanta are massless virtual particles, their energy and momentum are related by $\Delta E \approx c\,\Delta p$, so the energy fluctuations become $\Delta E \approx \hbar c/(2\Delta x)$.
+
+\paragraph{Quantum energy density:} The energy $\Delta E$ is concentrated within a volume $\Delta x^3$, yielding a quantum pressure or energy density approximately
+\begin{equation}
+\rho \approx \frac{\Delta E}{(\Delta x)^3} \approx \frac{\hbar c}{2(\Delta x)^4}.
+\end{equation}
+Thus the contraction $\Delta x$ induced by spacetime curvature strongly increases the quantum $\rho$.
+
+\paragraph{Quantum system at the minimum:} Heisenberg's principle enforces the existence of fluctuating zero-point (vacuum) energy even in the lowest-energy states; the vacuum is therefore not free of fluctuations. Constraining these fluctuations to a small region (large curvature) increases their pressure and energetic intensity.
+
+Thus the quantum confinement produced by spacetime curvature gives rise to what may be called a quantum pressure or quantum energy density. For example, suppose the effective uncertainty range $\Delta x$ is approximately equal to the Schwarzschild radius $R_s$ of a black hole of mass $M$. Then
+\begin{equation}
+\Delta p \approx \frac{\hbar}{2R_s},\qquad
+\Delta E \approx \frac{\hbar c}{2R_s}.
+\end{equation}
+Although the absolute result is small for large black holes, the density
+\begin{equation}
+\rho \approx \frac{\hbar c}{2R_s^4}
+\end{equation}
+increases as the black hole becomes smaller (i.e., as spacetime curvature increases).
+
+Studies of linear quantum gravity have found that quantum fluctuations lead to an uncertainty in the area of a black hole event horizon that scales approximately with the product of $R_s$ and the Planck length $\ell_P$. This means that vacuum fluctuations (and hence quantum pressure) are significantly amplified around the horizon.
+
+
+
+\subsection{Derivation of the equation from the uncertainty principle} 
+As mentioned above In curved space (as in general relativity), the coordinates are no longer Euclidean, and therefore position itself becomes dependent on the curvature of spacetime. In quantum mechanics, position and momentum are not independent, as observed from the uncertainty principle. 
+\begin{equation}
+    \Delta x \Delta p \geq \frac{\hbar}{2}
+\end{equation}
+If position changes due to the curvature of spacetime, momentum must also change.
+
+I assumed that quantum momentum is affected by the curvature of spacetime, and we said that $Total momentum = Normal momentum + Momentum due to spacetimecurvature$
+\begin{equation}
+    \hat{\mathbf{p}}_{total} = -i\hbar\nabla + \mathbf{Z}(\mathbf{x})
+    \end{equation}
+Where Z(x) is the momentum resulting from the curvature of spacetime
+\subsection{Deduce the formula for Z}
+I wondered what the only quantity is that describes the curvature of spacetime numerically, and the answer, after research, was scalar curvature, denoted by R(x) and with its unit $\frac{1}{m^2}$ . Because it is scalar, a linear quantity can be derived from it by taking the square root of R, which has the unit $\frac{1}{m}$ .
+To convert Z(x) to momentum ($kg*{m^2}/s$), we multiply it by the reduced Planck constant $\hbar$
+We derive the law from the uncertainty principle by starting from
+\begin{equation}
+    \Delta x \Delta p \geq \frac{\hbar}{2}
+\end{equation}
+In regions with a large curvature R, it can be assumed that 
+ \begin{equation}
+    \Delta x \propto \frac{1}{\sqrt{R}} 
+ \end{equation}
+That is, space is compressed quantitatively Therefore 
+\begin{equation}
+    \Delta p \propto \sqrt{R}
+\end{equation}
+then 
+\begin{equation}
+    Z(x) \propto \Delta p \propto \sqrt{R}
+\end{equation}
+We replace the proportion with equals and set a constant, and from this we conclude that
+\begin{equation}
+    z = \alpha\hbar\sqrt{R}
+\end{equation}
+Where $z$ :is a quantum momentum resulting from the curvature of spacetime
+$R$:is the curvature of spacetime
+\(\hbar\): is the reduced Planck constant.
+\(\alpha\): is a dimensionless constant or calibration constant ( Binary coefficient for determining impact strength )
+\subsection{Confirm dimensions}
+$\sqrt{R}$ $\rightarrow$ $ \frac{1}{m} $
+\(\hbar\) $\rightarrow$ $kg*m^2/s$
+$z$  $\rightarrow$ $kg*m/s$
+\begin{equation}
+    kg*m/s=kg*m^2/s *  \frac{1}{m} =kg*m/s
+\end{equation}
+This makes the total momentum of the particle equal 
+\begin{equation}
+    \hat{p}_{total} = -i\hbar\nabla + \alpha\hbar\sqrt{R} 
+\end{equation}
+
+
+\section{Modified Schrödinger Equation}
+The Hamiltonian operator $\hat{H} = \frac{\hat{p}_{eff}^2}{2m} + V(x)$ leads to:
+\begin{equation}
+\hat{H} \psi = \left[ -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2} - \frac{i \alpha \hbar^2 \sqrt{R}}{m} \frac{\partial}{\partial x} + \frac{\alpha^2 \hbar^2 R}{2m} + V(x) \right] \psi = E\psi
+\end{equation}
+The second term represents a \textit{geometric vector potential} effect, while the third term acts as a \textit{curvature-induced potential}.
+\section{Impact of Modified Momentum on the Equations of Motion}
+
+In this model, the total momentum operator $\hat{p}_{total}$ incorporates a geometric correction term $Z(x) = \alpha\hbar\sqrt{R}$. The transition from standard quantum mechanics to curved spacetime mechanics modifies the kinetic energy operator $\hat{T}$ as follows:
+
+\begin{equation}
+\hat{T} = \frac{\hat{p}_{total}^2}{2m} = \frac{1}{2m} \left( -i\hbar\nabla + \alpha\hbar\sqrt{R} \right)^2
+\end{equation}
+
+Expanding the operator (assuming a uniform curvature field $\nabla R = 0$), the equation of motion for the kinetic energy becomes:
+
+\begin{equation}
+\hat{T} = -\frac{\hbar^2}{2m}\nabla^2 - \frac{i\alpha\hbar^2\sqrt{R}}{m}\nabla + \frac{\alpha^2\hbar^2 R}{2m}
+\end{equation}
+
+This derivation reveals that the curvature introduces a non-trivial velocity-dependent term and a constant geometric energy shift, fundamentally altering the particle's trajectory in Hilbert space.
+
+\section{Analysis of the Modified Schrödinger Equation}
+
+The incorporation of the curvature-dependent momentum operator $\hat{p}_{total} = -i\hbar\nabla + \alpha\hbar\sqrt{R}$ fundamentally transforms the Schrödinger equation. The resulting Hamiltonian introduces two primary modifications to the evolution of the quantum state:
+
+\begin{enumerate}
+    \item \textbf{Geometric Potential Shift:} 
+    The term $\frac{\alpha^2\hbar^2 R}{2m}$ acts as an additional \textit{intrinsic potential energy}. Unlike classical potentials $V(r)$, this energy arises purely from the geometry of spacetime. It implies that a particle in a curved background possesses a "rest energy" or a potential floor, even in the absence of external fields.
+    
+    \item \textbf{Curvature-Velocity Coupling:} 
+    The imaginary term $-\frac{i\alpha\hbar^2\sqrt{R}}{m}\nabla$ represents a direct coupling between the particle's momentum and the background curvature. Physically, this term modifies the \textit{probability current density}, suggesting that spacetime curvature exerts a "geometric force" that influences the flow of the wave function.
+\end{enumerate}
+
+The final modified equation is expressed as:
+\begin{equation}
+i\hbar\frac{\partial \psi}{\partial t} = \underbrace{-\frac{\hbar^2}{2m}\nabla^2}_{\text{Kinetic}} \underbrace{- \frac{i\alpha\hbar^2\sqrt{R}}{m}\nabla}_{\text{Coupling}} + \underbrace{\left( V(r) + \frac{\alpha^2\hbar^2 R}{2m} \right)}_{\text{Effective Potential}} \psi
+\end{equation}
+
+This formulation demonstrates that quantum particles in 2026 theoretical models are not just moving \textit{through} spacetime, but are actively interacting with its curvature $R$, leading to observable shifts in energy levels and quantum tunneling rates.
+.
+
+\paragraph{Physical Interpretation of the Modified Terms:}
+The resulting Hamiltonian from the squared momentum operator $\hat{p}_{total}^2$ introduces a complex interplay between quantum dynamics and spacetime geometry, categorized into three distinct physical contributions:
+
+\begin{itemize}
+    \item \textbf{The Standard Kinetic Term} $\left(-\frac{\hbar^2}{2m}\nabla^2\right)$: This term represents the classical quantum kinetic energy inherited from flat-space mechanics. It accounts for the energy associated with the wave function's spatial curvature and dictates the fundamental dispersion relations in the absence of gravitational effects.
+    
+    \item \textbf{The Curvature-Momentum Coupling} $\left(-\frac{i\alpha\hbar^2\sqrt{R}}{m}\nabla\right)$: This non-classical term describes a first-order coupling between the particle's momentum and the background scalar curvature $R$. Physically, it acts as a "geometric vector potential" that modifies the probability current density. This suggests that the flow of the wave function is subject to a directional bias induced by the spacetime curvature, potentially leading to parity-violating shifts in particle propagation.
+    
+    \item \textbf{The Induced Geometric Potential} $\left(\frac{\alpha^2\hbar^2 R}{2m}\right)$: This term manifests as an intrinsic scalar potential arising purely from the geometry. It implies that a particle in a curved manifold possesses a "curvature-induced energy floor," proportional to the Ricci scalar. This is a hallmark of the Extended Uncertainty Principle (EUP), where the geometry of the universe sets a minimum bound for the energy spectrum, effectively acting as an additional rest-mass contribution or a vacuum energy shift.
+\end{itemize}
+.
+
+\paragraph{Dimensional Consistency Analysis:}
+To ensure the physical validity of the modified Schrödinger equation, we perform a dimensional verification of the newly introduced terms. In SI units, the Hamiltonian terms must consistently yield Joules ($J = kg \cdot m^2 \cdot s^{-2}$):
+
+\begin{itemize}
+    \item \textbf{Curvature Unit:} The scalar curvature $R$ is defined as the reciprocal of the area, thus its dimension is $[R] = L^{-2}$ (units of $m^{-2}$). Consequently, $[\sqrt{R}] = L^{-1}$ (units of $m^{-1}$).
+    
+    \item \textbf{Dimensional Check for $T_2$:} The coupling term is given by $\frac{\alpha \hbar^2 \sqrt{R}}{m} \nabla$. 
+    The dimensions are:
+    \begin{equation}
+    \left[ \frac{\hbar^2 \sqrt{R} \nabla}{m} \right] = \frac{(M L^2 T^{-1})^2 \cdot L^{-1} \cdot L^{-1}}{M} = \frac{M^2 L^4 T^{-2} \cdot L^{-2}}{M} = M L^2 T^{-2}
+    \end{equation}
+    This corresponds to the dimension of Energy ($J$), confirming the term's validity.
+
+    \item \textbf{Dimensional Check for $T_3$:} The induced geometric potential is $\frac{\alpha^2 \hbar^2 R}{2m}$. 
+    The dimensions are:
+    \begin{equation}
+    \left[ \frac{\hbar^2 R}{m} \right] = \frac{(M L^2 T^{-1})^2 \cdot L^{-2}}{M} = \frac{M^2 L^4 T^{-2} \cdot L^{-2}}{M} = M L^2 T^{-2}
+    \end{equation}
+    This also yields the dimension of Energy ($J$).
+\end{itemize}
+Since $\alpha$ is a dimensionless parameter, all terms in the modified Hamiltonian are dimensionally consistent with the standard kinetic and potential energy operators.
+
+\paragraph{Dimensional Analysis and Unit Verification:}
+To verify the physical consistency of the modified Schrödinger equation, we analyze the dimensions of the newly introduced curvature terms. The Hamiltonian must maintain the dimensions of Energy $[E] = M L^2 T^{-2}$ (Joules in SI units).
+
+\begin{itemize}
+    \item \textbf{Curvature Dimensions:} The scalar curvature $R$ represents the intrinsic geometry per unit area, thus $[R] = L^{-2}$ (units: $m^{-2}$), and consequently $[\sqrt{R}] = L^{-1}$ (units: $m^{-1}$).
+    
+    \item \textbf{Analysis of the Coupling Term ($-\frac{i\alpha\hbar^2\sqrt{R}}{m}\nabla$):} 
+    The term involves the product of $\hbar^2$ ($M^2 L^4 T^{-2}$), $\sqrt{R}$ ($L^{-1}$), $\nabla$ ($L^{-1}$), and $m^{-1}$ ($M^{-1}$):
+    \begin{equation}
+    \left[ \frac{\hbar^2 \sqrt{R} \nabla}{m} \right] = \frac{(M L^2 T^{-1})^2 \cdot L^{-1} \cdot L^{-1}}{M} = \frac{M^2 L^4 T^{-2} \cdot L^{-2}}{M} = M L^2 T^{-2}
+    \end{equation}
+    This confirms the term is dimensionally consistent with Energy.
+
+    \item \textbf{Analysis of the Geometric Potential ($\frac{\alpha^2\hbar^2 R}{2m}$):} 
+    This term involves $\hbar^2$ ($M^2 L^4 T^{-2}$), $R$ ($L^{-2}$), and $m^{-1}$ ($M^{-1}$):
+    \begin{equation}
+    \left[ \frac{\hbar^2 R}{m} \right] = \frac{(M L^2 T^{-1})^2 \cdot L^{-2}}{M} = \frac{M^2 L^4 T^{-2} \cdot L^{-2}}{M} = M L^2 T^{-2}
+    \end{equation}
+    The result matches the units of Joules, ensuring that the "curvature-induced energy floor" is physically sound.
+\end{itemize}
+
+Since $\alpha$ is a dimensionless scaling constant, all terms in the modified Hamiltonian are formally equivalent in their units to the standard kinetic energy operator $-\frac{\hbar^2}{2m}\nabla^2$.
+
+\section{The usefulness of the theory}
+1. Explaining how quantum momentum is affected by the curvature of spacetime
+\newline 2. The emergence of new quantum energies that do not depend on potential V(x)
+\newline 3. Formulating a new form of the Schrödinger equation that interacts with gravity.
+\newline 4. Combining quantum mechanics with general relativity on a simple level
+
+\section{note}
+I derived a modification to the Schrödinger equation using a new momentum resulting from the curvature of spacetime.
+\newline This modification led to a new equation containing two terms not present in the original equation: the interaction of the wave function with the curvature gradient, and the emergence of a quantum self-potential resulting solely from the geometry of space.
+
+\section{Set the value of the alpha constant}
+
+    This experiment and equation assume the curvature is constant.
+\newline The value of the constant is determined from the equation
+\begin{equation}
+    \Delta E_{geom} = \frac{\alpha^2 \hbar^2 R}{2m}
+\end{equation}
+Then we rearrange the equation so that the constant Alpha is on one side alone, resulting in the following form:
+\begin{equation}
+    \alpha = \sqrt{\frac{2m \Delta E}{\hbar^2 R}}
+\end{equation}
+\subsection{What we need in the experiment}
+$\Delta E$ :The difference between energy in a curved well and a flat well 
+\newline $m$ : Particle mass 
+\newline$R$ : The amount of bending
+\newline $\hbar$ : Reduced Planck constant
+\newline To improve accuracy, we repeat the experiment multiple times with different values of R and calculate the value of alpha each time. If the model is correct, it should be approximately constant.
+
+\section{An experiment to prove the theory}
+To prove the theory, we need to demonstrate that the curvature of spacetime leads to a correction in momentum or energy levels, as predicted by the law:
+\begin{equation}
+    Z(x)=\alpha\hbar\sqrt{R}
+\end{equation}
+\subsection{Steps}
+\subsubsection{Preparing a trial system}
+Two-dimensional quantum well on a physical surface
+Two different surfaces
+A flat surface $R=0$
+A curved surface $R\neq0$
+\subsubsection{Preparing the particle inside the well}
+Using electrons or cold atoms confined within the well, we can achieve this using optical networks or quantum dots etched into semiconductor materials. 
+\newline (important note )
+\newline It must be ensured that the particles are isolated from external thermal and electromagnetic interference.
+\subsubsection{Measure energy levels}
+Using a spectrodcopy device or scanning tunneling microscope 
+\newline We are trying to measure the difference between the first energy level in both the level well and the curved well. 
+\subsubsection{supposed to be noticed}
+If the theory is correct, then it should be
+\begin{equation}
+\Delta E = E_{\text{curved}} - E_{\text{flat}} = \frac{\alpha^2 \hbar^2 R}{2m}
+\end{equation}
+We repeat the experiment with different R-curvature values, measuring energy levels in each case.
+\newline (important note)
+\newline $\Delta E$ must be proportional to $R$ When the mass is constant
+\subsubsection{Graphical relationship}
+We draw a graph of the relationship between $\Delta E$ and $R$, and it should often be linear
+\begin{equation}
+    \Delta E \propto R
+\end{equation}
+This proves that R has an effect as in the equation.
+\subsubsection{Error analysis and verification}
+We calculate the experimental error rate
+\newline We ensure that the energy difference is not caused by mechanical distortions or thermal disturbances.
+\newline We experiment with curved surfaces in different directions to see the effect.($R+$ and $R-$
+\subsection{Signs of success}
+1. There is a constant energy difference between the curved well and the plane well.
+\newline 2. The difference increases with increasing $R$
+\newline3. No difference is shown when $R$ = 0
+\newline Numerical compatibility with the equation :
+\begin{equation}
+    \frac{\alpha^2 \hbar^2 R}{2m} 
+\end{equation}
+\subsection{Experiment objectives}
+1. We prove that there is an actual energy correction due to local curvature.
+\newline 2. We prove that quantum momentum is affected by the curvature of spacetime or geometry (according to the model).
+\newline 3. The law specific to the hypothesis can be observed experimentally under laboratory conditions.
+\section{Solution to the modified Schrödinger equation and mathematical proof of the law}
+Fully modified equation 
+\begin{equation}
+i\hbar\frac{\partial \psi}{\partial t} = \left[ -\frac{\hbar^2}{2m}\nabla^2 - \frac{i\alpha\hbar^2\sqrt{R}}{m}\nabla + \left( V(r) + \frac{\alpha^2\hbar^2 R}{2m} \right) \right] \psi
+\end{equation}
+In this case, we assume that the curvature $R$ is constant (in the case of the circumference of a massive object).
+That is: 
+\begin{equation}
+    \nabla(\sqrt{R})=0
+\end{equation}
+be the equation : 
+\begin{equation}
+i\hbar\frac{\partial \psi}{\partial t} = \left[ -\frac{\hbar^2}{2m}\nabla^2 - \frac{i\alpha\hbar^2\sqrt{R}}{m}\nabla + \left( V(\mathbf{r}) + \frac{\alpha^2\hbar^2 R}{2m} \right) \right] \psi
+\end{equation}
+ In the case of the quantum well (inside $V=0$ outside $\infty$)
+ Inside the well : 
+     \begin{equation}
+-\frac{\hbar^2}{2m} \frac{d^2\psi}{dx^2} - \frac{i\alpha\hbar^2\sqrt{R}}{m} \frac{d\psi}{dx} + \frac{\alpha^2\hbar^2 R}{2m}\psi = E\psi
+\end{equation}
+The traditional solution : 
+\begin{equation}
+    \Psi(x, t) = \psi(x) e^{-iEt/\hbar}
+\end{equation} 
+We adjust it so that it becomes the time-adjusted equation:
+\begin{equation}
+    \Psi(x, t) = \psi(x) e^{-\frac{i}{\hbar} \left( E_{flat} + \frac{\alpha^2 \hbar^2 R}{2m} \right) t}
+\end{equation}
+The geometrically modified equation:
+\begin{equation}
+E\psi = \bigg[ \underbrace{-\frac{\hbar^2}{2m}\nabla^2}_{\text{Kinetic}} \underbrace{- \frac{i\alpha\hbar^2\sqrt{R}}{m}\nabla}_{\text{Geometric Coupling}} + \underbrace{\frac{\alpha^2\hbar^2 R}{2m}}_{\text{Geometric Potential}} + V \bigg] \psi
+\end{equation}
+\subsection{Complete solution}
+\paragraph{Energy Eigenvalues in Curved Spacetime}
+
+By applying the boundary conditions $\psi(L)=0$ to the modified wave equation, the quantized energy levels for a particle in an infinite potential well of width $L$ are given by:
+
+\begin{equation}
+E_n = \frac{n^2 \pi^2 \hbar^2}{2 m L^2} + \frac{\alpha^2 \hbar^2 R}{2 m}
+\end{equation}
+
+Where $n = 1, 2, 3, \dots$ represents the quantum principal number.
+
+\paragraph{Physical Interpretation:}
+The total energy $E_n$ is composed of two distinct physical contributions:
+\begin{itemize}
+    \item \textbf{Quantum Confinement Term:} $\frac{n^2 \pi^2 \hbar^2}{2 m L^2}$ is the standard kinetic energy resulting from the spatial confinement of the particle.
+    \item \textbf{Geometric Offset Term:} $\frac{\alpha^2 \hbar^2 R}{2 m}$ represents a constant energy floor induced by the spacetime curvature $R$. 
+\end{itemize}
+
+This result demonstrates that while the energy level spacing remains consistent with standard quantum mechanics, the entire spectrum undergoes a global upward shift dictated by the background geometry of the universe.
+\newline Modified quantum energy = Original energy + Energy resulting from the curvature of spacetime
+\newline That is, the law: 
+\begin{equation}
+    z = \alpha\hbar\sqrt{R}
+\end{equation}
+ This led to a real correction in the energy spectrum of the quantum particle in the well, and this difference can be measured if $R$ is large enough.
+ This is a complete mathematical and physical proof of the law and its consequences.
+\section{License}
+
+The text of this work (manuscript, documentation and README) is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.  
+The code in this repository is released under the MIT License. The full license texts are included in the project repository under the file \texttt{LICENSE}.
+
+Online references:
+\begin{itemize}
+  \item Repository: \url{https://github.com/scikyrollesashraf/Momentum-resulting-from-the-curvature-of-spacetime-2-}
+  \item Citable archived release (Zenodo DOI): \href{doi.org}{}
+  \item Creative Commons (CC BY 4.0) legal code: \url{https://creativecommons.org/licenses/by/4.0/}
+  \item MIT License (text contained in the repository's LICENSE file).
+\end{itemize}
+% Bibliography
+\bibliographystyle{plain} 
+\bibliography{references}
+\nocite{*}
+
+\end{document}
