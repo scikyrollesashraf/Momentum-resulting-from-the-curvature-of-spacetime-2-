@@ -1,121 +1,214 @@
 Creative Commons Legal Code
 
-CC0 1.0 Universal
+Attribution 4.0 International (CC BY 4.0)
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS
-    PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM
-    THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
-    HEREUNDER.
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE
+COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY
+COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS
+AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 
-Statement of Purpose
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE
+TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY BE
+A CONSUMER PROTECTION LAW THAT IS INCAPABLE OF BEING WAIVED BY AGREEMENT OF
+THE PARTIES, NOTHING IN THIS LICENSE SHALL AFFECT YOUR RIGHTS UNDER THAT
+LAW.
 
-The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
-authorship and/or a database (each, a "Work").
+Section 1 — Definitions.
 
-Certain owners wish to permanently relinquish those rights to a Work for
-the purpose of contributing to a commons of creative, cultural and
-scientific works ("Commons") that the public can reliably and without fear
-of later claims of infringement build upon, modify, incorporate in other
-works, reuse and redistribute as freely as possible in any form whatsoever
-and for any purposes, including without limitation commercial purposes.
-These owners may contribute to the Commons to promote the ideal of a free
-culture and the further production of creative, cultural and scientific
-works, or to gain reputation or greater distribution for their Work in
-part through the use and efforts of others.
+a. Adapted Material means material subject to Copyright and Similar Rights that
+is derived from or based upon the Licensed Material and in which the Licensed
+Material is translated, altered, arranged, transformed, or otherwise modified
+in a manner requiring permission under the Copyright and Similar Rights held
+by the Licensor. For purposes of this License, where the Licensed Material is
+a musical work, performance, or sound recording, Adapted Material is always
+inclusive of the sync rights necessary to use the Licensed Material in
+combination with a moving image.
 
-For these and/or other purposes and motivations, and without any
-expectation of additional consideration or compensation, the person
-associating CC0 with a Work (the "Affirmer"), to the extent that he or she
-is an owner of Copyright and Related Rights in the Work, voluntarily
-elects to apply CC0 to the Work and publicly distribute the Work under its
-terms, with knowledge of his or her Copyright and Related Rights in the
-Work and the meaning and intended legal effect of CC0 on those rights.
+b. Adapter's License means the license You apply to Your Copyright and Similar
+Rights in Your contributions to Adapted Material in accordance with the
+requirements of this License.
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
-protected by copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but are not
-limited to, the following:
+c. BY-SA Compatible License means a license listed at
+creativecommons.org that the Licensor has identified as essentially the same
+as this License, including by allowing adaptations and requiring
+derivative works to be licensed under the same terms.
 
-  i. the right to reproduce, adapt, distribute, perform, display,
-     communicate, and translate a Work;
- ii. moral rights retained by the original author(s) and/or performer(s);
-iii. publicity and privacy rights pertaining to a person's image or
-     likeness depicted in a Work;
- iv. rights protecting against unfair competition in regards to a Work,
-     subject to the limitations in paragraph 4(a), below;
-  v. rights protecting the extraction, dissemination, use and reuse of data
-     in a Work;
- vi. database rights (such as those arising under Directive 96/9/EC of the
-     European Parliament and of the Council of 11 March 1996 on the legal
-     protection of databases, and under any national implementation
-     thereof, including any amended or successor version of such
-     directive); and
-vii. other similar, equivalent or corresponding rights throughout the
-     world based on applicable law or treaty, and any national
-     implementations thereof.
+d. Copyright and Similar Rights means copyright and/or similar rights closely
+related to copyright including, without limitation, performance, publicity,
+moral, neighboring and sui generis database rights, and rights to control
+the collection, arrangement and presentation of data, but specifically
+excluding Patents and Trademark rights.
 
-2. Waiver. To the greatest extent permitted by, but not in contravention
-of, applicable law, Affirmer hereby overtly, fully, permanently,
-irrevocably and unconditionally waives, abandons, and surrenders all of
-Affirmer's Copyright and Related Rights and associated claims and causes
-of action, whether now known or unknown (including existing as well as
-future claims and causes of action), in the Work (i) in all territories
-worldwide, (ii) for the maximum duration provided by applicable law or
-treaty (including future time extensions), (iii) in any current or future
-medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional
-purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
-member of the public at large and to the detriment of Affirmer's heirs and
-successors, fully intending that such Waiver shall not be subject to
-revocation, rescission, cancellation, termination, or any other legal or
-equitable action to disrupt the quiet enjoyment of the Work by the public
-as contemplated by Affirmer's express Statement of Purpose.
+e. Effective Technological Measures means those measures that, in the
+absence of proper authority, may not be circumvented under laws fulfilling
+obligations under Article 11 of the WIPO Copyright Treaty adopted on 20
+December 1996, and similar international agreements.
 
-3. Public License Fallback. Should any part of the Waiver for any reason
-be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permitted taking into
-account Affirmer's express Statement of Purpose. In addition, to the
-extent the Waiver is so judged Affirmer hereby grants to each affected
-person a royalty-free, non transferable, non sublicensable, non exclusive,
-irrevocable and unconditional license to exercise Affirmer's Copyright and
-Related Rights in the Work (i) in all territories worldwide, (ii) for the
-maximum duration provided by applicable law or treaty (including future
-time extensions), (iii) in any current or future medium and for any number
-of copies, and (iv) for any purpose whatsoever, including without
-limitation commercial, advertising or promotional purposes (the
-"License"). The License shall be deemed effective as of the date CC0 was
-applied by Affirmer to the Work. Should any part of the License for any
-reason be judged legally invalid or ineffective under applicable law, such
-partial invalidity or ineffectiveness shall not invalidate the remainder
-of the License, and in such case Affirmer hereby affirms that he or she
-will not (i) exercise any of his or her remaining Copyright and Related
-Rights in the Work or (ii) assert any associated claims and causes of
-action with respect to the Work, in either case contrary to Affirmer's
-express Statement of Purpose.
+f. Exceptions and Limitations means fair use, fair dealing or other
+equivalents.
 
-4. Limitations and Disclaimers.
+g. License Elements means the following high-level license attributes
+as provided by the Licensor: attribution; license notice; disclaimer of
+warranties and limitation of liability.
 
- a. No trademark or patent rights held by Affirmer are waived, abandoned,
-    surrendered, licensed or otherwise affected by this document.
- b. Affirmer offers the Work as-is and makes no representations or
-    warranties of any kind concerning the Work, express, implied,
-    statutory or otherwise, including without limitation warranties of
-    title, merchantability, fitness for a particular purpose, non
-    infringement, or the absence of latent or other defects, accuracy, or
-    the present or absence of errors, whether or not discoverable, all to
-    the greatest extent permissible under applicable law.
- c. Affirmer disclaims responsibility for clearing rights of other persons
-    that may apply to the Work or any use thereof, including without
-    limitation any person's Copyright and Related Rights in the Work.
-    Further, Affirmer disclaims responsibility for obtaining any necessary
-    consents, permissions or other rights required for any use of the
-    Work.
- d. Affirmer understands and acknowledges that Creative Commons is not a
-    party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+h. Licensor means the individual(s) or entity(ies) granting rights under this
+License.
+
+i. Licensed Material means the artistic or literary work, database, or other
+material to which the Licensor applied this License.
+
+j. Licensed Rights means the rights granted to You subject to the terms and
+conditions of this License, which are limited to all Copyright and Similar
+Rights that apply to Your use of the Licensed Material and that the Licensor
+has authority to license.
+
+k. Licensor's Designated Agent means the person or entity designated by the
+Licensor to receive notices as required by Section 4(d).
+
+l. Share means to provide material to the public by any means or process that
+requires permission under the Licensed Rights, such as reproduction,
+public display, public performance, distribution, dissemination, communication
+or importation, and to make material available to the public including in
+ ways that recipients may further make available or disseminate it.
+
+m. Sui Generis Database Rights means rights other than copyright resulting
+from Directive 96/9/EC of the European Parliament and of the Council of 11
+March 1996 on the legal protection of databases, and similar national laws
+that apply instead of, or in addition to, Directive 96/9/EC.
+
+n. You means the individual or entity exercising the Licensed Rights under
+this License. Your has a corresponding meaning.
+
+Section 2 — Scope.
+
+a. License grant.
+Subject to the terms and conditions of this License, the Licensor hereby
+grants You a worldwide, royalty-free, non-sublicensable, non-exclusive,
+irrevocable license to exercise the Licensed Rights in the Licensed Material
+to:
+
+  i. reproduce and Share the Licensed Material, in whole or in part; and
+  
+  ii. produce, reproduce, and Share Adapted Material.
+
+b. Exceptions and Limitations. For the avoidance of doubt, where Exceptions
+and Limitations apply to Your use, this License does not apply and You do not
+need to comply with its terms and conditions.
+
+c. Term. The term of this License is specified in Section 6(a).
+
+d. Media and formats; technical modifications allowed. The Licensor
+authorizes You to exercise the Licensed Rights in all media and formats
+whether now known or hereafter created, and to make technical modifications
+necessary to do so. The Licensor waives and/or agrees not to assert any
+right or authority to forbid You from making technical modifications necessary
+to exercise the Licensed Rights, including technical modifications necessary
+to circumvent Effective Technological Measures. For purposes of this
+License, simply making modifications authorized by this Section 2(a) (such
+as format-shifting) does not produce Adapted Material.
+
+e. Downstream recipients. Those who receive Adapted Material from You
+under the terms of this License will not have their Copyright and Similar
+Rights in that Adapted Material revoked by virtue of your complying with
+this License.
+
+Section 3 — License Conditions.
+
+Your exercise of the Licensed Rights is expressly made subject to the
+following conditions.
+
+a. Attribution. If You Share the Licensed Material (including in modified
+form), You must:
+
+  i. retain the following if it is supplied by the Licensor with the
+  Licensed Material:
+
+    A. identification of the creator(s) of the Licensed Material and
+    any others designated to receive attribution, in any reasonable manner required
+    by the Licensor; provided that, in all cases, attribution parties
+    designated by the Licensor may be identified by the title or an
+    identifier associated with the person(s) or entity(ies);
+
+    B. a copyright notice;
+
+    C. a notice that refers to this License;
+
+    D. a notice that refers to the disclaimer of warranties;
+
+    E. a URI or hyperlink to the Licensed Material to the extent
+    reasonably practicable;
+
+  ii. indicate if You modified the Licensed Material and retain an
+  indication of any previous modifications; and
+
+  iii. indicate the Licensed Material is licensed under this License, and
+  include the text of, or the URI or hyperlink to, this License.
+
+The above may be implemented in any reasonable manner; provided that
+You do not imply the Licensor endorses You or Your use.
+
+b. No additional restrictions. You may not apply legal terms or
+technological measures that legally restrict others from doing anything the
+License permits.
+
+Section 4 — Sui Generis Database Rights.
+
+Where the Licensed Rights include Sui Generis Database Rights that apply to
+Your use of the Licensed Material, the Licensor waives and/or agrees not to
+assert those rights to the limited extent necessary to allow You to exercise
+the Licensed Rights as stated in Section 2.
+
+Section 5 — Representations and Warranties.
+
+Except for the limited warranty in Section 5(b), the Licensor offers the
+Licensed Material as-is and makes no representations or warranties of any
+kind concerning the Licensed Material.
+
+a. To the extent possible, the Licensor asserts that to the best of their
+knowledge they have the right to license the Licensed Material under this
+License.
+
+b. Limited warranty. Where the Licensor expressly states that the Licensed
+Material is provided on terms that include a limited warranty, this warranty
+will be stated in the Licensed Material or in the document provided with the
+Licensed Material.
+
+Section 6 — Term and Termination.
+
+a. This License and the rights granted hereunder terminate automatically
+upon any exercise of the Licensed Rights that is not expressly permitted
+by this License and fails to meet any of its conditions.
+
+b. Where You have received the Licensed Material under more than one
+license, which includes this License and other terms, this License does not
+terminate to the extent required by the other applicable license.
+
+c. Subject to the above, the Licensor may expressly and specifically
+place additional terms onto the Licensed Material notwithstanding the
+terms of this License. In such cases the additional terms take precedence to
+the extent they are compatible with this License.
+
+Section 7 — Other Terms and Conditions.
+
+a. The terms of this License are governed by the laws of the jurisdiction
+where the Licensor resides, unless otherwise required by applicable law.
+
+b. The Berne Convention for the Protection of Literary and Artistic Works,
+the Universal Copyright Convention, and the World Intellectual Property
+Organization Copyright Treaty explicitly form part of the terms of this
+License.
+
+c. No trademark license is granted under this License. This License does
+not grant permission to use the trade names, trademarks, service marks,
+or product names of the Licensor, except as required for reasonable and
+customary use.
+
+d. Where any part of this License is held to be invalid or unenforceable
+under applicable law, that part shall be construed to the greatest extent
+possible in a manner that results in the intentions of the Licensor being
+fulfilled.
+
+e. This License does not reduce, limit, or remove any of the rights
+that others have under applicable law.
+
+For further information, visit: https://creativecommons.org/licenses/by/4.0/legalcode
